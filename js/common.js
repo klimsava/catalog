@@ -67,6 +67,7 @@ $('.plus-btn').click(function () {
 
 //modal window
 
+
 //open the button
 $('.js-button-campaign').click(function(){
   $('.wrap').css('filter', 'blur(5px)');
